@@ -1,2 +1,3 @@
 # TiendaEjemplo
  
+![](imagenes/imagen.png)
